@@ -1,29 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0369a1&height=220&section=header&text=Mamta%20Mukate&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Analytics%20Fresher&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Mamta%20Mukate&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Analyst&descAlignY=58&descSize=20" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Data+Analytics+Fresher;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+Raw+Data+Into+Insights" alt="Typing SVG" />
+<a href="https://github.com/mamtamukate">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Excel+%7C+Python+%7C+SQL+%7C+Power+BI;Building+dashboards+that+tell+a+story;Open+to+Data%2FBusiness+Analyst+roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mamtamukate&color=0ea5e9&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/mamtamukate?label=Followers&style=flat-square&color=0ea5e9" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=github&logoColor=black" alt="Open to Work"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mamtamukate&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://img.shields.io/github/followers/mamtamukate?style=for-the-badge&color=7dd3fc&label=FOLLOWERS" alt="followers" />
 
 </div>
 
 <br/>
 
-## 🙋‍♀️ Who I Am
+## 🧑‍💻 Who I Am
 
-```typescript
-const mamta = {
-  title: "Data Analytics Fresher",
-  stack: ["Python", "SQL", "Excel", "Power BI", "Jupyter Notebook"],
-  launchedProjects: 2,
-  status: "🎯 Focusing",
-  openTo: "Data / Business Analyst opportunities"
+```ts
+const mamtaMukate = {
+  title: "Data Analyst | Business Analyst",
+  stack: ["Excel", "Python", "SQL", "Power BI"],
+  launchedProjects: [
+    "customer_shopping_behavior_analysis",
+    "E-commerce-Analysis",
+    "phonePay_analytics_dashboard",
+  ],
+  certifications: [],
+  status: "Analyzing data, building dashboards, chasing insights 📊",
+  openTo: "Data Analyst / Business Analyst opportunities",
 };
 ```
 
@@ -33,32 +42,48 @@ const mamta = {
 
 ### 📊 Customer Shopping Behavior Analysis
 
-Data analysis project exploring customer shopping behavior using Python, SQL, Excel, and Power BI.
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mamtamukate&repo=customer_shopping_behavior_analysis&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="customer_shopping_behavior_analysis"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mamtamukate&repo=customer_shopping_behavior_analysis&theme=nord&border_color=0ea5e9&title_color=0ea5e9" />
+An exploratory analysis of customer shopping behavior to uncover patterns and trends driving purchasing decisions.
 
 | Layer | Technology |
 |---|---|
-| Data Analysis | Python |
-| Database | SQL |
-| Reporting | Excel |
-| Visualization | Power BI |
+| Data Handling | Python |
+| Querying | SQL |
+| Visualization | Excel / Power BI |
 
-🔗 **Code:** [github.com/mamtamukate/customer_shopping_behavior_analysis](https://github.com/mamtamukate/customer_shopping_behavior_analysis)
+🔗 [Code](https://github.com/mamtamukate/customer_shopping_behavior_analysis)
 
 <br/>
 
 ### 🛒 E-commerce Analysis
 
-E-commerce data analysis project built with Python in Jupyter Notebook.
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mamtamukate&repo=E-commerce-Analysis&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="E-commerce-Analysis"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mamtamukate&repo=E-commerce-Analysis&theme=nord&border_color=0ea5e9&title_color=0ea5e9" />
+A deep dive into e-commerce data to surface sales trends, customer segments, and business insights.
 
 | Layer | Technology |
 |---|---|
-| Analysis | Python (Jupyter Notebook) |
+| Data Handling | Python |
+| Querying | SQL |
+| Visualization | Excel / Power BI |
 
-🔗 **Code:** [github.com/mamtamukate/E-commerce-Analysis](https://github.com/mamtamukate/E-commerce-Analysis)
+🔗 [Code](https://github.com/mamtamukate/E-commerce-Analysis)
+
+<br/>
+
+### 📱 PhonePay Analytics Dashboard
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mamtamukate&repo=phonePay_analytics_dashboard&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="phonePay_analytics_dashboard"/>
+
+An interactive analytics dashboard built to visualize and track PhonePe transaction data.
+
+| Layer | Technology |
+|---|---|
+| Data Handling | Python / SQL |
+| Dashboarding | Power BI |
+
+🔗 [Code](https://github.com/mamtamukate/phonePay_analytics_dashboard)
 
 <br/>
 
@@ -66,19 +91,16 @@ E-commerce data analysis project built with Python in Jupyter Notebook.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py&theme=dark" />
-<img src="https://img.shields.io/badge/SQL-0ea5e9?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python" />
 
-**AI / Database / Analytics Tools**
+**Data & BI**
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-<img src="https://img.shields.io/badge/Excel-0ea5e9?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-0ea5e9?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-**Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-<img src="https://img.shields.io/badge/Jupyter-0ea5e9?style=for-the-badge&logo=jupyter&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 <br/>
 
@@ -86,22 +108,28 @@ E-commerce data analysis project built with Python in Jupyter Notebook.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mamtamukate&show_icons=true&theme=nord&border_color=0ea5e9&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamtamukate&layout=compact&theme=nord&border_color=0ea5e9&title_color=0ea5e9&text_color=c9d1d9" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mamtamukate&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamtamukate&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=mamtamukate&theme=nord&border=0ea5e9&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" width="70%" />
+<img src="https://streak-stats.demolab.com?user=mamtamukate&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
 
 </div>
+
+<br/>
 
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mamtamukate&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=mamtamukate&theme=nord&no-frame=true&no-bg=true&row=1&column=6" alt="trophies"/>
 </div>
+
+<br/>
 
 ## 📊 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mamtamukate&theme=react-dark&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%" />
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mamtamukate&theme=nord&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff" alt="activity graph" width="100%"/>
+</div>
 
 <br/>
 
@@ -110,12 +138,14 @@ E-commerce data analysis project built with Python in Jupyter Notebook.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mamta-mukate-a7ab622a3/">
-  <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:mamtamukate@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,100:0ea5e9&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
